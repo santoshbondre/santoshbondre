@@ -1,3 +1,5 @@
+![Santosh Bondre - Cloud & Platform Engineering](./assets/cloud-engineering-architect-banner.png)
+
 # 👋 Hi, I'm Santosh Bondre
 
 ### Solution Architect | Cloud & Platform Engineering | DevOps | Kubernetes | Azure
