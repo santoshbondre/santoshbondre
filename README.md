@@ -94,11 +94,6 @@ Explore my portfolio for projects and technical case studies.
 
 ## 📊 GitHub Statistics
 
-![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshbondre&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshbondre&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=santoshbondre&theme=github-dark-blue&hide_border=true)
 
 ---
 
